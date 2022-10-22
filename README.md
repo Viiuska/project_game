@@ -21,7 +21,28 @@ The index file creates new game(config) and in the config file I define config o
 
 In the preloadScene I loaded couple images to make the main menu page and added some texts. At first I could not get the background image to fit the frame but luckely I found help in the internet. Gamer can choose the level by clicking the wanted button starting the new scene. 
 
-The GameScene, GamesceneMedium and GameSceneHard all have the same code base that I modified to the different level. I created black stars that gives minus points using the star collecting function as a guide. When the player hits a bomb gamer get the text "Game over" and gamer's total score. In the GameScene the platforms do not move unlike the GamesceneMedium and GameSceneHard. The GameSceneMedium has two moving platforms that makes the star collecting and watching out for the bombs little bit harder. The GameSceneHard has movable paltform that gamer need's to use to get to the all stars. 
+The GameScene, GamesceneMedium and GameSceneHard all have the same code base that I modified to the different level. I created black stars that gives minus points using the star collecting function as a guide. When the player hits a bomb gamer get the text "Game over" and gamer's total score. In the GameScene the platforms do not move unlike the GamesceneMedium and GameSceneHard. The GameSceneMedium has two moving platforms that makes the star collecting and watching out for the bombs little bit harder. The GameSceneHard has movable paltform that gamer need's to use to get to the all stars.
+
+
+
+## The game
+
+![image](https://user-images.githubusercontent.com/87257685/197357773-498cca7d-aa67-4180-992a-920bb7711315.png)
+
+1.image: Main menu
+
+![image](https://user-images.githubusercontent.com/87257685/197357802-4eb8b6b3-e0a5-4531-aa8c-2166b7886c49.png)
+
+2.image: Easy level
+
+![image](https://user-images.githubusercontent.com/87257685/197357879-1e0795f2-c626-4203-8a3e-1c2afa5a8be8.png)
+3. image: Medium level, Game over
+
+
+
+
+
+
 
 
 # Points for the project
