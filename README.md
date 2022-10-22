@@ -1,6 +1,8 @@
 # project_game - Platform game
 Created with CodeSandbox
+
 Viia Mäntymäki
+
 22.10.2022
 
 # Introduction
