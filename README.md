@@ -1,7 +1,7 @@
 # project_game - Platform game
 Created with CodeSandbox
-## Viia Mäntymäki
-## 22.10.2022
+Viia Mäntymäki
+22.10.2022
 
 # Introduction
 This is my course project work (CT30A2910 Introduction to Web Programming). Along the course I learned basics of HTML, CSS and Javascrip. For the course project I decided to do game because it inspired me the most out of the options given. It is simple platform game where player tries to collect stars and wacth out for black stars as they give minus points and look out for the deadly bombs.
