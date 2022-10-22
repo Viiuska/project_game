@@ -25,23 +25,20 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 
 ## The game
 
-![image](https://user-images.githubusercontent.com/87257685/197357773-498cca7d-aa67-4180-992a-920bb7711315.png)
-
+![image](https://user-images.githubusercontent.com/87257685/197357773-498cca7d-aa67-4180-992a-920bb7711315.png)  
 1.image: Main menu
 
 
-![image](https://user-images.githubusercontent.com/87257685/197357802-4eb8b6b3-e0a5-4531-aa8c-2166b7886c49.png)
-
+![image](https://user-images.githubusercontent.com/87257685/197357802-4eb8b6b3-e0a5-4531-aa8c-2166b7886c49.png)  
 2.image: Easy level
 
 
-![image](https://user-images.githubusercontent.com/87257685/197357879-1e0795f2-c626-4203-8a3e-1c2afa5a8be8.png)
-
+![image](https://user-images.githubusercontent.com/87257685/197357879-1e0795f2-c626-4203-8a3e-1c2afa5a8be8.png)  
 3. image: Medium level, Game over
 
 
 # Points for the project
-![image](https://user-images.githubusercontent.com/87257685/197349706-f2eb5d06-b5fc-4315-8a23-06ce60ac9c66.png)
+![image](https://user-images.githubusercontent.com/87257685/197349706-f2eb5d06-b5fc-4315-8a23-06ce60ac9c66.png)  
 
 -The report is comprehensive it has required information and images of the game.  
 -The game is responsive. User can use it desktop, tablet and mobile view without bigger problems.  
@@ -55,7 +52,7 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 -There can be found three different sound effects when collecting star, black star and hitting a bomb.  
 
 
-### Help and guidance (can be found also in the code)
+### Help and guidance used in code (can be found also in the code)
 https://www.youtube.com/watch?v=O6zoZAq86io  
 https://phaser.io/tutorials/making-your-first-phaser-3-game/part1  
 https://www.youtube.com/playlist?list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R  
