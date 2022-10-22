@@ -67,10 +67,10 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 
 
 ### Help and guidance (can be found also in the code)
-https://www.youtube.com/watch?v=O6zoZAq86io \n
-https://phaser.io/tutorials/making-your-first-phaser-3-game/part1 \n
-https://www.youtube.com/playlist?list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R \n
-https://www.youtube.com/watch?v=SRqKOccMWbc \n
-https://phaser.discourse.group/t/how-to-stretch-background-image-on-full-screen/1839 \n
-https://phaser.io/examples/v3/view/physics/arcade/basic-platform \n
+https://www.youtube.com/watch?v=O6zoZAq86io  
+https://phaser.io/tutorials/making-your-first-phaser-3-game/part1  
+https://www.youtube.com/playlist?list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R  
+https://www.youtube.com/watch?v=SRqKOccMWbc  
+https://phaser.discourse.group/t/how-to-stretch-background-image-on-full-screen/1839  
+https://phaser.io/examples/v3/view/physics/arcade/basic-platform   
 
