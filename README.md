@@ -9,7 +9,7 @@ Viia Mäntymäki
 This is my course project work (CT30A2910 Introduction to Web Programming). Along the course I learned basics of HTML, CSS and Javascrip. For the course project I decided to do game because it inspired me the most out of the options given. It is simple platform game where player tries to collect stars and wacth out for black stars as they give minus points and look out for the deadly bombs.
 
 ## Tools
-I used CodeSandbox as a coding platform and it's browser to display the game. In the game I took advantage the Phaser framework. For the game sounds I used freesound website (https://freesound.org/) to download sound effects and AudioMass (https://audiomass.co/) to edit/convert them to mp3. I also used Pixlr (https://pixlr.com/fi/x/) to personalize the game objects to little bit them.
+I used CodeSandbox as a coding platform and it's browser to display the game. In the game I took advantage the Phaser framework. For the game sounds I used freesound website (https://freesound.org/) to download sound effects and AudioMass (https://audiomass.co/) to edit/convert them to mp3. I also used Pixlr (https://pixlr.com/fi/x/) to personalize the game objects.
 
 ## The game structure
 The game starts at main menu page where the player can choose the desired difficulty level (easy, medium, hard) by clicking it. The player controls the game character with the arrow keys. In the hard level player need to use mouse to move a platform horizontally. The game end when player hits a bomb. 
@@ -31,19 +31,15 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 
 1.image: Main menu
 
+
 ![image](https://user-images.githubusercontent.com/87257685/197357802-4eb8b6b3-e0a5-4531-aa8c-2166b7886c49.png)
 
 2.image: Easy level
 
+
 ![image](https://user-images.githubusercontent.com/87257685/197357879-1e0795f2-c626-4203-8a3e-1c2afa5a8be8.png)
 
 3. image: Medium level, Game over
-
-
-
-
-
-
 
 
 # Points for the project
@@ -68,3 +64,13 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 -The enemies are the bombs that will kill the palyer if they are hit.
 
 -There can be found three different sound effects when collecting star, black star and hitting a bomb.
+
+
+### Help and guidance (can be found also in the code)
+https://www.youtube.com/watch?v=O6zoZAq86io
+https://phaser.io/tutorials/making-your-first-phaser-3-game/part1
+https://www.youtube.com/playlist?list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R
+https://www.youtube.com/watch?v=SRqKOccMWbc
+https://phaser.discourse.group/t/how-to-stretch-background-image-on-full-screen/1839
+https://phaser.io/examples/v3/view/physics/arcade/basic-platform
+
