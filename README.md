@@ -36,6 +36,7 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 2.image: Easy level
 
 ![image](https://user-images.githubusercontent.com/87257685/197357879-1e0795f2-c626-4203-8a3e-1c2afa5a8be8.png)
+
 3. image: Medium level, Game over
 
 
