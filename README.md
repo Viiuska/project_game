@@ -44,7 +44,7 @@ The GameScene, GamesceneMedium and GameSceneHard all have the same code base tha
 -The game is responsive. User can use it desktop, tablet and mobile view without bigger problems.  
 -It has no trouble to work in different browsers.  
 -The game plot is to collect stars (points) until player hits bomb and dies.  
--Player collects tries to collect the yellow stars and avoid black stars as they give minus points.  
+-Player tries to collect the yellow stars and avoid black stars as they give minus points.  
 -In the medium level there are two platforms that moves horizontally and hard level there is one platform that moves horizontally and one platform that user can move with a mouse click.  
 -There are 3 different maps in total.  
 -In hard level there is a movable platform can be moved by clicking the mouse.  
